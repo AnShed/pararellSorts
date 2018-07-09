@@ -1,0 +1,6 @@
+c:\users\anshed\documents\visual studio 2015\Projects\sorts\sorts\bin\Debug\sorts.exe.config
+C:\Users\AnShed\documents\visual studio 2015\Projects\sorts\sorts\bin\Debug\sorts.exe
+C:\Users\AnShed\documents\visual studio 2015\Projects\sorts\sorts\bin\Debug\sorts.pdb
+C:\Users\AnShed\documents\visual studio 2015\Projects\sorts\sorts\obj\Debug\sorts.csprojResolveAssemblyReference.cache
+C:\Users\AnShed\documents\visual studio 2015\Projects\sorts\sorts\obj\Debug\sorts.exe
+C:\Users\AnShed\documents\visual studio 2015\Projects\sorts\sorts\obj\Debug\sorts.pdb
